@@ -11,7 +11,7 @@ Minecraft Java 26.2
 
 #### Required 
 
-- **VaRest (Plugin for Unreal Engine)**
+- **[VaRest (Plugin for Unreal Engine)](https://github.com/ufna/VaRest)**
 - **Python 3.12**
 - **[BotMine (Library for Python)](https://pypi.org/project/botmine/)**
 - **Java**
