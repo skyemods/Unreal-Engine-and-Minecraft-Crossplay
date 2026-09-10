@@ -56,7 +56,7 @@ Minecraft Java 26.2
 
 ## FAQ
 * Does this use c++?
-  * No it uses Python and VaRest Plugin that doesnt use c++
+  * No it uses Python and VaRest Plugin which doesnt use c++
 
 * Why doesnt my skin work
   * When Minecraft doesn't use online mode skins don't work so it uses the default ones
