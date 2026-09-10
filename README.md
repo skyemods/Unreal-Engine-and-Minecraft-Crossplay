@@ -66,7 +66,9 @@ Minecraft Java 26.2
  
 -----------------
 
+# Credits
 
+* [ufna](https://github.com/ufna) - Made VaRest
 
   
 
