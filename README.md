@@ -74,4 +74,4 @@ Minecraft Java 26.2
 
 # Socials
 
-[twitter](x.com/skyemods)
+[twitter](https://x.com/skyemods)
