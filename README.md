@@ -25,12 +25,13 @@ Minecraft Java 26.2
 - Inside the server folder place your Minecraft Java server and name it server.jar
 
 2. **Setting up the Minecraft Server**
-- Open Command Prompt inside the directory you have server.py inside
+- Open Command Prompt inside the directory you have **server.py** inside
 - Type ```python server.py```
 - Agree to the eula to set up the server
 - Inside the server folder you will see **server.properties** open it
 - Set ```allow-flight``` to true
 - Set ```online-mode``` to false
+- Inside the **server.py** you will see ```JAVA_MEMORY``` this is the memory the server will use the default is 1 gigabyte but you can change it
 
 3. **Inside Unreal Engine**
 - Add the BP_Crossplay actor into your content folder
