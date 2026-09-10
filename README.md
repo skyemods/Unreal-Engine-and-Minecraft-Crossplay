@@ -70,5 +70,8 @@ Minecraft Java 26.2
 
 * [ufna](https://github.com/ufna) - Made VaRest
 
-  
+-----------------
 
+# Socials
+
+[twitter](x.com/skyemods)
