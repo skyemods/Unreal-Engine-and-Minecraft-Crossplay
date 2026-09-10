@@ -25,7 +25,7 @@ Minecraft Java 26.2
 - Create a folder with any name you want
 - Inside that folder put the 2 python files **(server.py and bot.py)**
 - In the folder create a folder called server
-- Inside the server folder place your Minecraft Java server and name it server.jar
+- Inside the server folder place your Minecraft Java server and name it **server.jar**
 
 2. **Setting up the Minecraft Server**
 - Open Command Prompt inside the directory you have **server.py** inside
@@ -37,8 +37,8 @@ Minecraft Java 26.2
 - Inside the **server.py** you will see ```JAVA_MEMORY``` this is the memory the server will use the default is 1 gigabyte but you can change it
 
 3. **Inside Unreal Engine**
-- Add the BP_Crossplay actor into your content folder
-- Drag BP_Crossplay actor to the viewport
+- Add the **BP_Crossplay** actor into your content folder
+- Drag **BP_Crossplay** actor to the viewport
 
 4. **How to use**
 - Run the server.py in Command Prompt with ```python server.py```
