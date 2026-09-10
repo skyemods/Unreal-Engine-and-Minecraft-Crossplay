@@ -1,4 +1,4 @@
-# A Minecraft and Unreal Engine 4 crossplay prototype that synchronizes player positions and movement using Python, BotMine, and VaRest.
+# Minecraft and Unreal Engine 4 crossplay prototype
 
 ## Tested on
 Unreal Engine 4.26.2
