@@ -36,3 +36,11 @@ Minecraft Java 26.2
 3. **Inside Unreal Engine**
 - Add the BP_Crossplay actor into your content folder
 - Drag BP_Crossplay actor to the viewport
+
+4. **How to use**
+- Run the server.py in Command Prompt with ```python server.py```
+- When Command Prompt window says **MINECRAFT IS READY** run ```python bot.py``` in a new window
+- On Minecraft press add server then put the server address to ```127.0.0.1:25565``` and join it
+- On Unreal Engine press the play button at the top of the screen
+  
+
