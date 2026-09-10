@@ -24,7 +24,7 @@ Minecraft Java 26.2
 1. **Setting up directories**
 - Create a folder with any name you want
 - Inside that folder put the 2 python files **(server.py and bot.py)**
-- In the folder create a folder called server
+- In the folder create a folder and call it **server**
 - Inside the server folder place your Minecraft Java server and name it **server.jar**
 
 2. **Setting up the Minecraft Server**
