@@ -1,6 +1,10 @@
 # Minecraft and Unreal Engine 4 crossplay prototype
 
-![Looping Demo](video.gif)
+-----------------
+
+![Looping Video](video.gif)
+
+-----------------
 
 ## Tested on
 Unreal Engine 4.26.2
