@@ -13,7 +13,7 @@ Minecraft Java 26.2
 
 - **VaRest (Plugin for Unreal Engine)**
 - **Python 3.12**
-- **BotMine (Library for Python)**
+- **[BotMine (Library for Python)](https://pypi.org/project/botmine/)**
 - **Java**
 - **Minecraft Java Edition**
 - **Unreal Engine**
