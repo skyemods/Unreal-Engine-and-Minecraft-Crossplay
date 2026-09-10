@@ -7,6 +7,7 @@ Minecraft Java 26.2
 
 ### May work on more versions of Minecraft and Unreal Engine
 
+-----------------
 
 #### Required 
 
@@ -17,6 +18,8 @@ Minecraft Java 26.2
 - **Minecraft Java Edition**
 - **Unreal Engine**
 - **Minecraft Java Edition Server**
+
+-----------------
 
 1. **Setting up directories**
 - Create a folder with any name you want
@@ -42,5 +45,11 @@ Minecraft Java 26.2
 - When Command Prompt window says **MINECRAFT IS READY** run ```python bot.py``` in a new window
 - On Minecraft press add server then put the server address to ```127.0.0.1:25565``` and join it
 - On Unreal Engine press the play button at the top of the screen
+
+-----------------
+
+
+
+
   
 
