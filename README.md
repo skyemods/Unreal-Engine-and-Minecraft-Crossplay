@@ -48,6 +48,17 @@ Minecraft Java 26.2
 
 -----------------
 
+## FAQ
+* Does this use c++?
+  * No it uses Python and VaRest Plugin that doesnt use c++
+
+* Why doesnt my skin work
+  * When Minecraft doesn't use online mode skins don't work so it uses the default ones
+ 
+* The player is stuck
+  * This is something that happens with some environment if you go back to where your stuck in Unreal Engine it should fix
+ 
+-----------------
 
 
 
